@@ -1,0 +1,16 @@
+/* if i want 100% heigh push div than i should add property and value html and body  */
+/* html, body {
+    height: 100%;
+} */
+div{
+    background: linear-gradient(-90deg,red , green);
+    /* height: 100%; */
+    height: 200px;
+    width: 100%;
+    max-width: 600px;
+
+    /* if i use inital i have to add something in div or i can use inherit  */
+    
+    /* or uses where needs */
+    /* min-width: 600px; */
+}
